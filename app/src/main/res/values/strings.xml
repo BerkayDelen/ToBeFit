@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To Be Fit</string>
+    <string name="title_home">Antremanlar</string>
+    <string name="title_dashboard">Takvim</string>
+    <string name="title_notifications">Profil</string>
+</resources>

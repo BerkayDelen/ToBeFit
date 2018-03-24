@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1fc3b3</color>
+    <color name="colorPrimaryDark">#158378</color>
+    <color name="colorAccent">#c3531f</color>
+    <color name="MainColor">#1fc3b3</color>
+    <color name="BlueGreen">#18da90</color>
+    <color name="op45Black">#a1000000</color>
+    <color name="op125Black">#7d000000</color>
+    <color name="white">#ffffff</color>
+    <color name="stoneBlue">#404c58</color>
+    <color name="op100Black">#64000000</color>
+</resources>
